@@ -1,0 +1,1 @@
+Insert into user values(1,`Arup`);
